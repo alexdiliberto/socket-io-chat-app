@@ -1,0 +1,15 @@
+{
+  "name": "socket-io-chat-app",
+  "version": "1.0.0",
+  "description": "Demo chat application using Socket.IO",
+  "main": "index.js",
+  "author": "Alex DiLiberto <npm@alexdiliberto.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.3",
+    "socket.io": "^2.0.3"
+  },
+  "engines": {
+    "node": ">= 6.*"
+  }
+}
